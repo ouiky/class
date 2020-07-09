@@ -10,3 +10,6 @@ def janghoon(request):
 
 def janghoon2(request):
     return render(request, 'janghoon2.html')
+
+def kyuhwa(request):
+    return render(request, 'kyuhwa.html')
