@@ -13,3 +13,7 @@ def janghoon2(request):
 
 def kyungpyo(request):
     return render(request, 'kyungpyo.html')
+  
+def kyuhwa(request):
+    return render(request, 'kyuhwa.html')
+
